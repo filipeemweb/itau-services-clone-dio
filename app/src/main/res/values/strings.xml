@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ItauServicesCloneDIO</string>
+    <string name="txt_nossos_servicos">nossos serviços</string>
+    <string name="txt_disponiveis_para_voce">disponíveis para você</string>
+</resources>
